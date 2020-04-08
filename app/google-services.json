@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9593814419",
+    "firebase_url": "https://saafaiwala.firebaseio.com",
+    "project_id": "saafaiwala",
+    "storage_bucket": "saafaiwala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9593814419:android:d498c668a0a93438f3fc66",
+        "android_client_info": {
+          "package_name": "com.example.saafaiwala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9593814419-f6506sgke5j67qlnjiq62bctcconolks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saafaiwala",
+            "certificate_hash": "4a34b524d9016b1138651748190ad80d3d999bc5"
+          }
+        },
+        {
+          "client_id": "9593814419-1qrvvdb6p8l0d99ekjpegi0ett7htq44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55PKNKf8rSy6OUkbNh7u82_DLHRb2pHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9593814419-1qrvvdb6p8l0d99ekjpegi0ett7htq44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
